@@ -12,9 +12,18 @@ This Python-based network analyzer is a tool designed to detect various types of
 
 ## Usage
 
-1. Execute the script and input the desired number of packets to scan.
-2. The network analyzer will capture and analyze the specified number of packets from the network.
-3. After processing the packets, it will display the count of packets corresponding to each detected attack type along with the count of unknown packets.
+```
+git clone https://www.github.com/StarStark07/NetProbe
+```
+```
+cd NetProbe
+```
+```
+pip install -r requirements.txt
+```
+```
+python NetProbe.py
+```
 
 ## Author
 
