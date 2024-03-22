@@ -1,6 +1,7 @@
 # NetProbe
 
-![5169265](https://github.com/StarStark07/NetProbe/assets/112632845/318be967-afdc-4fb3-b2b7-06440f841727)
+![2603009](https://github.com/StarStark07/NetProbe/assets/112632845/a71b3459-e68e-4f06-8733-3ae266e0e127)
+
 
 
 This Python-based network analyzer is a tool designed to detect various types of network attacks within a specified number of packets. It utilizes the Scapy library for packet manipulation and analysis, providing flexibility and extensibility in detecting different attack patterns.
